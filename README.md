@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1125877206.svg)](https://doi.org/10.5281/zenodo.18109089)
 # Sovereign-AI-Vendor-Audit
 Open-source framework for Technical AI Vendor Due Diligence. Aligned with NIST AI RMF, EU AI Act, and UK AISI.
 # 🛡️ Sovereign AI Vendor Audit Framework
