@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Swiss & EU AI Compliance Risk Calculator"
+message: "If you use this software for regulatory assessment, please cite it as below."
+type: software
+authors:
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
+version: 1.0.0
+date-released: 2026-01-08
+license: MIT
+repository-code: "https://huggingface.co/spaces/Cata-Risk-Lab/AI-Compliance-Risk-Calculator"
+abstract: "A risk assessment engine for mapping AI deployments against the Swiss nFADP and EU AI Act. Calculates risk tiers based on data sensitivity and user volume."
+keywords:
+  - "nFADP"
+  - "EU AI Act"
+  - "Risk Management"
+  - "Switzerland"
